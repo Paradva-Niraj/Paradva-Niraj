@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm NIRAJ-PARADVA</h1>
-<h3 align="center">I'm a dedicated web developer with a deep passion for creating engaging and innovative web experiences. My journey in web development is driven by a constant curiosity to explore new technologies and methodologies. I thrive on discovering novel solutions and pushing the boundaries of what's possible on the web.</h3>
+<table>
+  <tr>
+    <td>
+      <img src="./piza-ninjas-pizzaninjas" alt="profile image" width="200"/>
+    </td>
+    <td>
+      <h1 align="left">Hi 👋, I'm NIRAJ-PARADVA</h1>
+      <h3 align="left">
+        I'm a dedicated web developer with a deep passion for creating engaging and innovative web experiences.
+        My journey in web development is driven by a constant curiosity to explore new technologies and methodologies.
+        I thrive on discovering novel solutions and pushing the boundaries of what's possible on the web.
+      </h3>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradva-niraj&label=Profile%20views&color=0e75b6&style=flat" alt="paradva-niraj" /> </p>
 
