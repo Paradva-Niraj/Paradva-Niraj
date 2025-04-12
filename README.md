@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./piza-ninjas-pizzaninjas" alt="profile image" width="200"/>
+      <img src="./piza-ninjas-pizzaninjas.gif" alt="profile image" width="200"/>
     </td>
     <td>
       <h1 align="left">Hi 👋, I'm NIRAJ-PARADVA</h1>
