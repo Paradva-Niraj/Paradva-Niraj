@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paradva-Niraj&show_icons=true&locale=en" alt="paradva-niraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paradva-Niraj&" alt="paradva-niraj" /></p>
+
