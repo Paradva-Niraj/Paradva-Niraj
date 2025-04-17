@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paradva-niraj" alt="paradva-niraj" /></a> </p>
 
-- 🔭 I’m currently working on **Image Enhancer**
+- 🔭 I’m currently working on **Frontend For Prompt Generator**
 
 - 🌱 I’m currently learning **React Tailwindcss**
 
