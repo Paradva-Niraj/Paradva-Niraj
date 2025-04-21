@@ -151,6 +151,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paradva-niraj&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=paradva-niraj&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradva-niraj&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradva-niraj&layout=compact&theme=tokyonight" height=195px/>
 </p>
 
