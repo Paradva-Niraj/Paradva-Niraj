@@ -33,7 +33,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=paradva-niraj&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<!--   upstream repo errro -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=paradva-niraj&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" /> -->
 </p>
 
 
@@ -150,7 +151,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paradva-niraj&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=paradva-niraj&theme=tokyonight&hide_border=false" />
+<!-- <img src="https://streak-stats.demolab.com/?user=paradva-niraj&theme=tokyonight&hide_border=false" /> -->
+<!-- respoce not getted by upstream repo -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradva-niraj&layout=compact&theme=tokyonight" height=195px/>
 </p>
 
