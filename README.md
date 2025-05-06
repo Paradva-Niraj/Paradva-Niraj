@@ -21,7 +21,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 I’m currently working on: **Frontend for Prompt Generator**
+- 🔭 I’m currently working on: **Full Stack Chat APP With Socket**
 - 🌱 Currently learning: **React & TailwindCSS**
 - 👨‍💻 All my projects are available here: [GitHub Repositories](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **React, Vite**
