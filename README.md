@@ -33,7 +33,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  upstream repo errro
+<!--   upstream repo errro -->
   <img src="https://github-profile-trophy.vercel.app/?username=paradva-niraj&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
