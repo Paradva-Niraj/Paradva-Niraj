@@ -21,7 +21,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 I’m currently working on: **Full Stack Chat APP With Socket**
+- 🔭 I’m currently working on: **Full Stack Driving School System**
 - 🌱 Currently learning: **React & TailwindCSS**
 - 👨‍💻 All my projects are available here: [GitHub Repositories](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **React, Vite**
@@ -57,10 +57,10 @@
 <h4 align="center">💻 Frontend Development</h4>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="Bootstrap" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/1200px-Official_CSS_Logo.svg.png" alt="CSS3" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -153,6 +153,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=paradva-niraj&show_icons=true&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com/?user=paradva-niraj&theme=tokyonight&hide_border=false" />
 <!-- respoce not getted by upstream repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradva-niraj&layout=compact&theme=tokyonight" height=195px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradva-niraj&layout=compact&theme=tokyonight"/>
 </p>
 
