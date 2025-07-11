@@ -22,7 +22,7 @@
 ### 🛠️ About Me
 
 - 🔭 I’m currently working on: **Full Stack Driving School System**
-- 🌱 Currently learning: **React & TailwindCSS**
+- 🌱 Currently learning: **React & MERN stack**
 - 👨‍💻 All my projects are available here: [GitHub Repositories](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **React, Vite**
 - 📫 Reach me at: **nirajparadva2004@gmail.com**
