@@ -25,7 +25,7 @@
 - 🌱 Currently learning: **React & MERN stack**
 - 👨‍💻 All my projects are available here: [GitHub Repositories](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **React, Vite**
-- 📫 Reach me at: [Contact Me](https://nicxx-portfolio.vercel.app)
+- 📫 Reach me at: [Contact Me](https://niraj-paradva.vercel.app/)
 - ⚡ Fun fact: *I’m an overthinker who even overthinks about overthinking. 😅*
 
 ---
