@@ -24,8 +24,8 @@
 - 🔭 I’m currently working on: **Full Stack Driving School System**
 - 🌱 Currently learning: **MERN stack, .net, Flutter**
 - 👨‍💻 All my projects are available here: [Repos](https://github.com/Paradva-Niraj?tab=repositories)
-- 💬 Ask me about: **React, Vite**
-- 📫 Reach me at: [Contact Me](https://niraj-paradva.vercel.app/)
+- 💬 Ask me about: **Any thing**
+- 📫 Reach me at: Portfolio ](https://niraj-paradva.vercel.app/)
 - ⚡ Fun fact: *I’m an overthinker who even overthinks about overthinking. 😅*
 
 ---
