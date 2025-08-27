@@ -21,7 +21,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 I’m currently working on: **Full Stack Driving School System**
+- 🔭 I’m currently working on: **Quick Board**
 - 🌱 Currently learning: **MERN stack, .net, Flutter**
 - 👨‍💻 All my projects are available here: [Repos](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **Any thing**
