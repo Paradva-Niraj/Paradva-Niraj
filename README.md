@@ -21,7 +21,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 I’m currently working on: **Quick Board**
+- 🔭 I’m currently working on: **Flutter AI-Todo**
 - 🌱 Currently learning: **MERN stack, .net, Flutter**
 - 👨‍💻 All my projects are available here: [Repos](https://github.com/Paradva-Niraj?tab=repositories)
 - 💬 Ask me about: **Any thing**
